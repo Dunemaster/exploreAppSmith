@@ -7,6 +7,10 @@
     {
       "id": "Additional data page",
       "isDefault": false
+    },
+    {
+      "id": "Wallets",
+      "isDefault": false
     }
   ],
   "viewMode": false,
